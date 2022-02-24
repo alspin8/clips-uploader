@@ -1,0 +1,6 @@
+{
+    "twitch": {
+        "client_id": "Your client id",
+        "secret_id": "Your client secret"
+    }
+}
